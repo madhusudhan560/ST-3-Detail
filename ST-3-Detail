@@ -1,0 +1,33 @@
+<!doctype html>
+<head>
+    <title>mini project</title>
+    <link rel="stylesheet" href="project.css">
+    <meta name="viewport" content="width=device-width ,initial-scale=1.0"> 
+</head>
+<body>
+    <div class="f">
+    <h1>Details Form</h1>
+    
+    <form>
+    
+    
+    
+        <div id="a">
+            <label>Name:</label>
+        <input type="text" placeholder="Enter your name" id="input1">
+        </div><br>
+        <div id="b">
+            <label>Mob.No.:</label>
+        <input type="tel" placeholder="Enter your mob. no." id="input2">
+        </div> <br>
+        <div id="c">
+            <label>Email Id:</label>
+            <input type="email" placeholder="Enter your email " id="input3">
+        </div>
+<br>
+<button id="btn-submit"> SUBMIT</button>
+
+    </form>
+</div>
+    
+</body>
